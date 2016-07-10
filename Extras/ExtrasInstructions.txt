@@ -1,0 +1,6 @@
+~Extras~
+
+1. To have access to B9 props for the Thunderbolt cockpit you must first have RastorPropMonitor installed. Then copy the included B9_Aerospace folder into your GameData if you do not already have B9, or if you only have B9 Procedural Wings.
+**If you only have B9 Procedural Wings installed the config will assume that you also have the props, resulting in a bare IVA. Please install the included folder to solve this issue.**
+
+2. Copy and paste quizTech_aero_TextureReplacer_Reflections.cfg into QuizTechAero/MM_Patches if you have TR and wish to have reflective cockpit glass. If you are running OpenGL I have found that it works to drop this file directly into QuizTechAero instead.

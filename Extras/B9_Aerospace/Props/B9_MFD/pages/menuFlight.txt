@@ -1,0 +1,20 @@
+                                        
+                                        
+                                        [#ffab00][@y7][@x-640]LEFT[@x-128]  UP
+                                        
+                                        
+                                        
+                                       [#ffab00][@y-2][@x-623]RIGHT[@x-128]DOWN                                   
+            [#ffffff]Flight Displays
+	       [#ffab00]Camera controls TOF LND          
+      [#e85a0c]Camera controls TOF LND APFD  	   
+                                        [#e85a0c][@y-12][@x-640]CAM+[@x-128][#ffab00]CNTR   
+                                        
+                                        
+                                        [#e85a0c][@y5][@x-640]CAM-[@x-128][#ffffff]BACK
+                                        
+                                        
+                                        
+                                        [#ffffff][@y-4][@x-640]PWR[@x-128] HOME
+                                        
+ [@x0] PFD [@x0] APFD [@x5] ORB [@x27]TOF [@x32] LND [@x40]  [@x48]   

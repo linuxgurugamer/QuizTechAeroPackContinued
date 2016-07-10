@@ -1,0 +1,20 @@
+ 
+ 
+                                       [#ffab00][@y7][@x-639]    [@x-128]PAGE+
+                                        
+                                        
+                                        
+                                       [#ffab00][@y-2][@x-623]    [@x-128]PAGE-
+									   
+              Information                     
+              [#ffab00]Controls RES
+                                        [#ffab00][@y-12][@x-640]HELPER[@x-128]    
+                                        
+                                        
+                                        [#ffab00][@y5][@x-640]T/S [@x-128][#ffffff]BACK
+                                        
+                                        
+                                        
+                                        [#ffffff][@y-4][@x-640]PWR[@x-128]HOME
+                                        
+ [@x0] RES [@x0] MISN [@x5] ALT [@x2] ATMO [@x12]DESC [@x23]VSL      

@@ -1,0 +1,14 @@
+
+==Installation==
+
+MOVE OR DELETE ANY FILES OR FOLDERS WITHIN THE QuizTechAero FOLDER AT YOUR OWN RISK. SOME PARTS USE SHARED TEXTURES AND WILL NOT WORK CORRECTLY IF CHANGED.
+
+1. Copy only the included GameData into the root Kerbal Space Program folder. Alternatively, copy and paste what is in the GameData folder included with QTAP into your local GameData (recommended to delete and re-install if you have a previous version). 
+
+	--DO NOT drag the GameData inside the QTAP folder into your local GameData!--
+
+2. Add any extra content available in the Extras folder if you so choose.
+
+3. Add any example craft available in the Example Craft folder if you wish to.
+
+4. PLAY KSP. DO IT.
