@@ -7,9 +7,9 @@ set HOMEDRIVE=%CD:~0,2%
 
 set RELEASEDIR=d:\Users\jbb\release
 set ZIP="c:\Program Files\7-zip\7z.exe"
-echo Default homedir: %DEFHOMEDIR%
+rem echo Default homedir: %DEFHOMEDIR%
 
-set /p HOMEDIR= "Enter Home directory, or <CR> for default: "
+rem set /p HOMEDIR= "Enter Home directory, or <CR> for default: "
 
 if "%HOMEDIR%" == "" (
 set HOMEDIR=%DEFHOMEDIR%
@@ -29,6 +29,6 @@ set /p VERSION= "Enter version: "
 
 set FILE="%RELEASEDIR%\QuizTechAeroPackContinued-%VERSION%.zip"
 IF EXIST %FILE% del /F %FILE%
-%ZIP% a -tzip %FILE% d:\Users\jbb\github\QuizTechAeroPackContinued
+%ZIP% a -tzip %FILE% -xr!QuizTechAeroPackContinued\.git\* d:\Users\jbb\github\QuizTechAeroPackContinued
 
 
