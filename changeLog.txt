@@ -1,5 +1,23 @@
 **Change Log**
 
+v1.3.7
+- Added missing internal for K-10
+
+v1.3.6
+- Some syntax fixes
+- Thanks @Galenmacil
+- Update Mk2_LinAerospike.cfg 
+- Update thunderbolt.cfg
+- Update Mk2MedNose.cfg
+- Cleaned up and added NEEDS for FerramAerospaceResearch
+- Fix for bad MM patch related to FAR
+- Added internal antennas & Kerbnet
+
+v1.3.5
+- Deleted old Mk2TwinTurboJet.orig.cfg file
+- Added antennas to all probes and pods
+- Added Kerbnet and hibernation to probe core
+
 v1.3.4
 - Fixed the K-21-RCS Jet Thruster
 - Added new part: MK2TwinTurboJet

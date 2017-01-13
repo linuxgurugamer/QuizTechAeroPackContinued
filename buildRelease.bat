@@ -29,6 +29,6 @@ set /p VERSION= "Enter version: "
 
 set FILE="%RELEASEDIR%\QuizTechAeroPackContinued-%VERSION%.zip"
 IF EXIST %FILE% del /F %FILE%
-%ZIP% a -tzip %FILE% -xr!QuizTechAeroPackContinued\.git\* d:\Users\jbb\github\QuizTechAeroPackContinued
+%ZIP% a -tzip %FILE% -xr!QuizTechAeroPackContinued\.git -xr!QuizTechAeroPackContinued\.git\* d:\Users\jbb\github\QuizTechAeroPackContinued
 
 
