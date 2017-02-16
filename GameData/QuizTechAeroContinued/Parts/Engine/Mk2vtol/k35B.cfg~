@@ -3,12 +3,6 @@ PART
 	name = K-35B
 	module = Part
 	author = Quiznos323/TMasterson5
-
-	MODEL
-	{
-		model = QuizTechAeroContinued/Parts/Engine/Mk2vtol/K-35B
-	}
-
 	scale = 0.1
 	rescaleFactor = 1
 	node_stack_top = 0.0, 0.0, 0.0, 0.0, 1.0, 0.0

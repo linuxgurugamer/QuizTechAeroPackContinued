@@ -1,5 +1,8 @@
 **Change Log**
 
+v1.3.8
+- Fixed K-35B engine/wings, thanks @TMasterson5
+
 v1.3.7
 - Added missing internal for K-10
 
