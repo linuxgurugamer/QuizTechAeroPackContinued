@@ -1,5 +1,10 @@
 **Change Log**
 
+v1.3.9
+- Merged patch from @eberkain updating tweakscale cfg
+- Merged patch from StahnAileron fixing the rcsJet cfg to use EC and adjusting
+the stats
+
 v1.3.8
 - Fixed K-35B engine/wings, thanks @TMasterson5
 
