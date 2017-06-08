@@ -1,5 +1,9 @@
 **Change Log**
 
+v1.3.10
+- updated to 1.3
+- Added Quicktech agency
+
 v1.3.9
 - Merged patch from @eberkain updating tweakscale cfg
 - Merged patch from StahnAileron fixing the rcsJet cfg to use EC and adjusting
