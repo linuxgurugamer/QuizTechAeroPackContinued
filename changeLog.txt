@@ -1,4 +1,9 @@
 **Change Log**
+1.3.12
+	Updated DLLs for 1.4.1+
+
+1.3.11
+	Updated for KSP 1.3.1
 
 v1.3.10
 - updated to 1.3
