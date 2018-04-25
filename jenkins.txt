@@ -28,10 +28,10 @@
 
 
 # 3:SOURCEFILE, DESTDIR
-3:QuizTechAeroPackCont.version,GameData/QuizTechAeroPackContinued
+3:QuizTechAeroPackCont.version,GameData/QuizTechAeroContinued
 
-3:license.txt,GameData/QuizTechAeroPackContinued
-3:README.md,GameData/QuizTechAeroPackContinued
+3:license.txt,GameData/QuizTechAeroContinued
+3:README.md,GameData/QuizTechAeroContinued
 
 
 #
