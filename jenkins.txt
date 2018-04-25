@@ -24,7 +24,7 @@
 # 0:1.3
 
 # 1:GAMEDIR, VERSIONFILE [, GITHUBREPO ]
-1:QuizTechAeroPackContinued, QuizTechAeroPackCont.version
+1:QuizTechAeroContinued, QuizTechAeroPackCont.version
 
 
 # 3:SOURCEFILE, DESTDIR
