@@ -1,7 +1,7 @@
 **Change Log**
 1.3.13
 	Added German, thanks @LeLeon
-	Fixed RCS thruster exhause
+	Fixed RCS thruster exhaust
 
 1.3.12
 	Updated DLLs for 1.4.1+
