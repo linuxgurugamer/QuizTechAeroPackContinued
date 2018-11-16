@@ -1,4 +1,11 @@
 **Change Log**
+
+1.3.14
+	Thanks to github user @rodg88:
+		Removed redundant textures
+		Delete .DS_Store files
+		
+
 1.3.13
 	Added German, thanks @LeLeon
 	Fixed RCS thruster exhaust
