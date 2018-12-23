@@ -4,6 +4,7 @@
 	Thanks to github user @rodg88:
 		Removed redundant textures
 		Delete .DS_Store files
+	Updated version for 1.5
 		
 
 1.3.13
