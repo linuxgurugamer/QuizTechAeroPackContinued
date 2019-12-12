@@ -1,0 +1,28 @@
+{
+  "NAME": "QuizTechAeroPackContinued",
+  "URL": "http://ksp.spacetux.net/avc/QuizTechAeroPackCont",
+  "DOWNLOAD": "http://spacedock.info/mod/836/QuizTechAeroPackContinued/download",
+  "VERSION": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 14,
+    "BUILD": 3
+  },
+  "KSP_VERSION": {
+    "MAJOR": 1,
+    "MINOR": 4,
+    "PATCH": 1
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 4,
+    "PATCH": 1
+  },
+  "INSTALL_LOC_1":
+  {
+    "NAME":    "QuizTechAeroPackCont",
+    "PATH":         "",
+    "DIRECTORY":    "QuizTechAeroContinued",
+    "FILE":         "QuizTechAeroPackCont.version"
+  }
+}

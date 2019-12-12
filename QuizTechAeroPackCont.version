@@ -5,8 +5,8 @@
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 3,
-    "PATCH": 14,
-    "BUILD": 3
+    "PATCH": 15,
+    "BUILD": 0
   },
   "KSP_VERSION": {
     "MAJOR": 1,
@@ -15,7 +15,13 @@
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
-    "MINOR": 4,
-    "PATCH": 1
+    "MINOR": 8,
+    "PATCH": 0
+  },
+  "INSTALL_LOC_1": {
+    "NAME": "QuizTechAeroPackCont",
+    "PATH": "",
+    "DIRECTORY": "QuizTechAeroContinued",
+    "FILE": "QuizTechAeroPackCont.version"
   }
 }
