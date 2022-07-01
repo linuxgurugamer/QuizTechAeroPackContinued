@@ -1,5 +1,12 @@
 **Change Log**
 
+1.3.15.1
+	Thanks to forum user @ColdJ for these changes:
+		Updated tags in localization configs
+		Tidied up and fixed Twinturbo Afterburner config
+		Added config that adds an afterburner capable version of the K-35B transitioning engine
+	Reformatted all config files to use tabs and standardized indentation
+
 1.3.15
 	Fixed MK2 Nerva Engine decoupling error
 	Updated for KSP 1.8
